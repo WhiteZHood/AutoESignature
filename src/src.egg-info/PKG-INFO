@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 1.0
+Summary: Sources file of the AutoESignature project
+Author: <Mariia Sudakova>
+Author-email: littlezwhitezridingzhood@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Windows
+Description-Content-Type: text/markdown
